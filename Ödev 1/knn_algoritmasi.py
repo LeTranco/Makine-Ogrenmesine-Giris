@@ -14,8 +14,8 @@ print(df.info())
 label_cols = ["gender", "family_history", "food_intake", 
               "previous_medications", "Insulin"]
 
-le = LabelEncoder()
 for col in label_cols:
+    le = LabelEncoder()
     df[col] = le.fit_transform(df[col])
 
 print(df.head())
@@ -59,4 +59,5 @@ plt.title("K degerine gore dogruluk")
 plt.xlabel("K degeri")
 plt.ylabel("Dogruluk")
 plt.grid(True)
+
 plt.show()
