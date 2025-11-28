@@ -5,11 +5,11 @@ Model, çeşitli sağlık parametrelerini kullanarak hastanın hangi insülin s�
 
 ## Projede Kullanılan Teknolojiler:
 
-# 1-Python 3.x
-# 2-Pandas
-# 3-Scikit-learn
-# 4-Matplotlib
-# 5-CSV veri seti
+#### 1-Python 3.x
+#### 2-Pandas
+#### 3-Scikit-learn
+#### 4-Matplotlib
+#### 5-CSV veri seti
 
 ## Modelin Çalışma Mantığı:
 
