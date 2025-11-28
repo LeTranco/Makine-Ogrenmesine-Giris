@@ -41,5 +41,29 @@ Bütün işlemlerden sonra model %70 başarı oranı göstermektedir. Karışık
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <img width="633" height="544" alt="image" src="https://github.com/user-attachments/assets/0e7f6d59-63d7-4ea2-b892-d13078fd9ca3" />
 
