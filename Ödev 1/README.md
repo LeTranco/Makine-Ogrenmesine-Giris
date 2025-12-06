@@ -33,6 +33,7 @@ Model ilk olarak "k=3" ile eğitilir. Doğruluk oranı ve karışıklık matrisi
 
 ## Model Performansı:
 Bütün işlemlerden sonra model %70 başarı oranı göstermektedir. Karışıklık matrisini hesaplamaktadır. Seçebileceğimiz her bir k değeri için grafik çizmektedir.
+<img width="1317" height="1101" alt="image" src="https://github.com/user-attachments/assets/e9d4d96e-9093-4717-aff8-c6822425e7db" />
 
 ## Örnek Çıktılar:
 Çıktı 1: <img width="198" height="13" alt="image" src="https://github.com/user-attachments/assets/0e05882e-e30f-402b-969a-575e88fb8e39" />
