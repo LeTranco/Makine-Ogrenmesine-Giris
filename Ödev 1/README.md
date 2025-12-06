@@ -34,7 +34,7 @@ Model ilk olarak "k=3" ile eğitilir. Doğruluk oranı ve karışıklık matrisi
 ### 6-Hiperparamete Optimizasyonu
 1–100 arasındaki k değerleri denenir, her biri için doğruluk hesaplanır ve grafik çizilir. Bu grafik, en uygun komşu sayısının belirlenmesini sağlar.
 
-### 7-Korolasyon Hesabı
+### 7-Korelasyon Hesabı
 Hangi özelliğin sonuç tahminini ne kadar etkilediğini hesaplamak için KNN algoritması elverişli bulunmadığından Random Forest algoritması eklenmiştir.
 
 ## Model Performansı
