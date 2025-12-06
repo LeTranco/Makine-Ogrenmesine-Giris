@@ -12,7 +12,7 @@ Model, çeşitli sağlık parametrelerini kullanarak hastanın hangi insülin s�
 #### 5-CSV veri seti
 
 ## Neden KNN Algoritması?
-Her ne kadar KNN algoritması için ölçeklendirme zorunlu olsa da doğrudan veriye bakıp analiz yapıp tahmin edebilmesi, tamamen veri dağılımına duyarlı olup hiçbir varsayım yapmaması, kategori ve sayısal özellikleri sorunsuz kullanabilmesi ve standartlaşmış bir veri üzerinden (yüksek glukoz + düşük fiziksel aktivite + yüksek BMI) karmaşık kombinasyonları yakalayabilir. Bu nedenlerden dolayı insülin tahmini için KNN algoritması tercih edilmiştir. 
+Her ne kadar KNN algoritması için ölçeklendirme zorunlu olsa da doğrudan veriye bakarak analiz yapıp tahmin edebilmesi, tamamen veri dağılımına duyarlı olup hiçbir varsayım yapmaması, kategori ve sayısal özellikleri sorunsuz kullanabilmesi ve standartlaşmış bir veri üzerinden (yüksek glukoz + düşük fiziksel aktivite + yüksek BMI) karmaşık kombinasyonları yakalayabilir. Bu nedenlerden dolayı insülin tahmini için KNN algoritması tercih edilmiştir. 
 
 ## Modelin Çalışma Mantığı:
 
