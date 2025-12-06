@@ -35,7 +35,7 @@ Model ilk olarak "k=3" ile eğitilir. Doğruluk oranı ve karışıklık matrisi
 1–100 arasındaki k değerleri denenir, her biri için doğruluk hesaplanır ve grafik çizilir. Bu grafik, en uygun komşu sayısının belirlenmesini sağlar.
 
 ### 7-Korolasyon Hesabı
-Hangi özelliğin sonuç tahminini ne kadar etklilediğini hesaplamak için KNN algoritması elverişli sayılmadığından Random Forest algoritması eklenmiştir.
+Hangi özelliğin sonuç tahminini ne kadar etkilediğini hesaplamak için KNN algoritması elverişli sayılmadığından Random Forest algoritması eklenmiştir.
 
 ## Model Performansı
 Bütün işlemlerden sonra model, %70 başarı oranı göstermektedir. Karışıklık matrisini hesaplamaktadır. Seçebileceğimiz her bir k değeri için grafik çizmektedir. Diğer algoritmaların doğruluk hesaplamalarına göre daha yüksek yüzdeliğe ulaşmıştır.
