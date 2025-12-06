@@ -4,6 +4,7 @@ from sklearn.metrics import accuracy_score, confusion_matrix
 from sklearn.model_selection import train_test_split
 from sklearn.preprocessing import LabelEncoder, StandardScaler
 import matplotlib.pyplot as plt
+from sklearn.ensemble import RandomForestClassifier
 
 df = pd.read_csv(r"C:\Users\ahmet\Desktop\Ders\Makine Öğrenmesine Giriş\Ödev 1\veri.csv")
 
@@ -58,3 +59,22 @@ plt.grid(True)
 
 plt.show()
 
+rf = RandomForestClassifier(n_estimators=100, random_state=40)
+rf.fit(X_train, y_train)
+
+importances = rf.feature_importances_
+importance_df = pd.DataFrame(
+    {
+    "Ozellik": X.columns,
+    "Onem": importances
+    }
+).sort_values(by = "Onem", ascending = False)
+
+plt.figure(figsize = (8, 5))
+plt.bar(importance_df["Ozellik"], importance_df["Onem"])
+plt.title("Random Forest Özellik Önem Grafiği")
+plt.xlabel("Özellikler")
+plt.ylabel("Önem Skoru")
+plt.xticks(rotation = 90)
+plt.tight_layout()
+plt.show()
