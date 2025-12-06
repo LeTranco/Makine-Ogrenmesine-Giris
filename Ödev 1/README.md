@@ -35,7 +35,7 @@ Model ilk olarak "k=3" ile eğitilir. Doğruluk oranı ve karışıklık matrisi
 1–100 arasındaki k değerleri denenir, her biri için doğruluk hesaplanır ve grafik çizilir. Bu grafik, en uygun komşu sayısının belirlenmesini sağlar.
 
 ## Model Performansı:
-Bütün işlemlerden sonra model %70 başarı oranı göstermektedir. Karışıklık matrisini hesaplamaktadır. Seçebileceğimiz her bir k değeri için grafik çizmektedir.
+Bütün işlemlerden sonra model, %70 başarı oranı göstermektedir. Karışıklık matrisini hesaplamaktadır. Seçebileceğimiz her bir k değeri için grafik çizmektedir. Diğer algoritmaların doğruluk hesaplamalarına göre daha yüksek yüzdeliğe ulaşmıştır.
 
 <img width="1317" height="1101" alt="image" src="https://github.com/user-attachments/assets/e9d4d96e-9093-4717-aff8-c6822425e7db" />
 
