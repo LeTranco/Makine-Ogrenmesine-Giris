@@ -47,6 +47,7 @@ Bütün işlemlerden sonra model, %70 başarı oranı göstermektedir. Karışı
 
 Çıktı 2: <img width="633" height="544" alt="image" src="https://github.com/user-attachments/assets/0e7f6d59-63d7-4ea2-b892-d13078fd9ca3" />
 
-Çıktı 3: <img width="797" height="501" alt="image" src="https://github.com/user-attachments/assets/beadfa5f-b78e-458f-b34b-460f992306de" />
+Çıktı 3: <img width="797" height="495" alt="image" src="https://github.com/user-attachments/assets/33e08e56-2bd3-4cbb-ad92-4299cf8ffde9" />
+
 
 
