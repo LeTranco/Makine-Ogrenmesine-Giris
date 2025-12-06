@@ -72,9 +72,10 @@ importance_df = pd.DataFrame(
 
 plt.figure(figsize = (8, 5))
 plt.bar(importance_df["Ozellik"], importance_df["Onem"])
-plt.title("Random Forest Özellik Önem Grafiği")
-plt.xlabel("Özellikler")
-plt.ylabel("Önem Skoru")
+plt.title("Random Forest Ozellik Onem Grafigi")
+plt.xlabel("Ozellikler")
+plt.ylabel("Onem Skoru")
 plt.xticks(rotation = 90)
 plt.tight_layout()
 plt.show()
+
