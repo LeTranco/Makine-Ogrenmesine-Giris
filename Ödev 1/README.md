@@ -3,6 +3,9 @@
 Bu proje, verilen bir CSV veri seti üzerinde KNN algoritması kullanılarak insülin doz tahmini / sınıflandırması yapmayı amaçlar.
 Model, çeşitli sağlık parametrelerini kullanarak hastanın hangi insülin sınıfına ait olduğunu tahmin etmeye çalışır.
 
+## Projenin Amacı
+Belirtilen veri seti üzerinden 
+
 ## Projede Kullanılan Teknolojiler:
 
 #### 1-Python 3.x
