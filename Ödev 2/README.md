@@ -1,6 +1,6 @@
 # Akıllı Ev Enerji Tüketimi Tahmini
 
-Bu projenin amacı, bir akıllı ev veri setinden yola çıkarak 'Sıcaklık' gibi enerji tüketimini etkileyebilecek özelliklerden yola çıkarak evin tükettiği enerji seviyesinin ortalamanın üzerinde olup olmadığını tahmin etmektir.
+Bu projenin amacı, bir akıllı ev veri setinden yola çıkarak 'Sıcaklık' gibi enerji tüketimini etkileyebilecek özelliklerden evin tükettiği enerji seviyesinin ortalamanın üzerinde olup olmadığını tahmin etmektir.
 
 ## Projede Kullanılan Teknolojiler
 
