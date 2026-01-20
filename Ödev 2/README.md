@@ -22,7 +22,7 @@ CSV dosyası okunur ve veri setindeki boş değer içeren tüm satırlar silinir
 Örnek olarak modellerin çalışmasına uygun olması amacıyla 'summary' sütunundaki verilerin sayısallaştırılması gerekmektedir. Bu bağlamda 'LabelEncoder' yöntemi kullanılmıştır.
 
 ### 4-Pivot Tablosunun Amacı ve Kullanılması
-Karmaşık ve çok satırlı bir veriyi anlamlı hale getirmek için pivot tablosu oluşturulur. Örneğin bu projede 'Saatlik ortalama', 'Sıcaklık Ortalaması', 'Nem Ortalaması' ve 'Rüzgar Hızı Ortalaması' olacak şekilde 4 pivot değer kullanılmıştır.
+Projede ham veri setindeki karmaşık ve binlerce satırdan oluşan verileri, anlamlı ve model tarafından kolayca işlenebilir istatistiksel özetlere dönüştürmek amacıyla pivot tablo yöntemi kullanılmıştır. Örneğin bu projede 'Saatlik ortalama', 'Sıcaklık Ortalaması', 'Nem Ortalaması' ve 'Rüzgar Hızı Ortalaması' olacak şekilde 4 pivot değer kullanılmıştır.
 
 ### 5-Üretilen Değerlerin Ana Tabloyla Birşetirilmesi
 Pivot tablolarında ürettiğimiz 'Akıllı Bilgiler' modelin okuyabileceği ana veri setine yazdırılır. Bu işlem yapılmazsa oluşturulan pivot tabloları sadece grafik çizdirmeye yarar, modelin tahmin gücüne hiçbir katkı sağlamaz.
@@ -50,7 +50,7 @@ Bu aşamada 'Logistic Regression', 'KNN Classification' ve 'Random Forest' model
 
 <img width="993" height="594" alt="image" src="https://github.com/user-attachments/assets/fbfd47b7-309c-43e7-a09b-dc00364945ee" />
 
-## Örnek Görseller
+## Örnek Çıktılar
 
 ### Neme Göre Enerji Tüketimi
 <img width="754" height="438" alt="image" src="https://github.com/user-attachments/assets/f10f79bc-9c2f-4518-b3b0-fbd6c87c73c1" />
